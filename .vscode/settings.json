@@ -1,0 +1,13 @@
+{
+    "cSpell.ignoreWords": [
+        "amsaccount"
+    ],
+    "cSpell.words": [
+        "hevc",
+        "masl",
+        "Msal",
+        "MSAL"
+    ],
+    "omnisharp.useGlobalMono": "never",
+    "nuxt.isNuxtApp": false
+}

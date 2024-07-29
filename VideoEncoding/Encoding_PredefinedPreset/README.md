@@ -1,0 +1,19 @@
+# Encoding With MES Predefined Preset
+
+Create an encoding Transform that uses a built-in preset for adaptive bitrate encoding and ingests a file directly from an HTTPs source URL, publish output asset for streaming, and download results for verification.
+
+## Prerequisites
+
+Required Assemblies:
+
+* Azure.Identity
+* Azure.ResourceManager.Media
+* Azure.Storage.Blobs
+* System.Linq.Async
+
+An Azure Media Services account. See the steps described in [Create a Media Services account](https://learn.microsoft.com/azure/media-services/latest/account-create-how-to).
+
+## Build and run
+
+Update the settings in **appsetting.json** in the root folder of the repository to match your Azure subscription, resource group and Media Services account.
+Then build and run in Visual Studio or VS Code.
