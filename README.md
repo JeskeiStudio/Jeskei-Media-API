@@ -1,4 +1,4 @@
-# Azure Media Services v3 using .NET 8.0 (deprecated)
+# Azure Media Services v3 using .NET 8.0 (archived)
 
 Microsoft has announced the retirement of Azure Media Services and so Jeskei is pressing ahead with its own media services platform built around IPFS for media storage and decentralised encoding and management services.
 
