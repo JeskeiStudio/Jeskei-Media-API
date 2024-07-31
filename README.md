@@ -1,4 +1,10 @@
-# Azure Media Services v3 using .NET 8.0
+# Azure Media Services v3 using .NET 8.0 (deprecated)
+
+Microsoft has announced the retirement of Azure Media Services and so Jeskei is pressing ahead with its own media services platform built around IPFS for media storage and decentralised encoding and management services.
+
+This repository will be archived and no further updates will be made to it.
+
+## Usage
 
 Backend services for interacting with Azure Media Services v3 using .NET 8.0 SDK, to encode, package, live stream, and protect videos with Azure Media Services v3 using [.NET 8.0 SDK](https://dotnet.microsoft.com/download).
 
